@@ -5,24 +5,18 @@ This project involves a bi-objective LAIP model for a dual-channel, multi-level 
 ### Installation Instructions
 Ensure that GAMS software is installed on your system to run the model:
 
-Download and install the latest version of GAMS.
-
-Clone or download this repository to your local machine.
-
-Open the GAMS files using GAMS IDE or compatible editors.
-
-Configure the solver settings as required by the model.
+  Download and install the latest version of GAMS.
+  Clone or download this repository to your local machine.
+  Open the GAMS files using GAMS IDE or compatible editors.
+  Configure the solver settings as required by the model.
 
 ### Usage Instructions
 The provided GAMS code implements the optimization model described in the paper. To run the model:
 
-Open the GAMS file in the GAMS software.
-
-Review and modify the input data as necessary to suit your specific case study or data set.
-
-Execute the model in GAMS to obtain solutions for the dual-channel supply chain network under various scenarios.
-
-Analyze the output to understand the impacts of different parameters on cost and environmental factors.
+  Open the GAMS file in the GAMS software.
+  Review and modify the input data as necessary to suit your specific case study or data set.
+  Execute the model in GAMS to obtain solutions for the dual-channel supply chain network under various scenarios.
+  Analyze the output to understand the impacts of different parameters on cost and environmental factors.
 
 ### Contributing
 Contributions to enhance the model, extend its applicability, or improve its efficiency are welcome. Please ensure that any contributions are consistent with the methodologies outlined in the paper.
