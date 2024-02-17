@@ -1,6 +1,6 @@
 ## LAIP
-#### Optimizing a bi-objective location-allocation-inventory problem in a dual-channel supply chain network with stochastic demands
-This project involves a bi-objective location-allocation-inventory optimization model for a dual-channel, multi-level supply chain network under stochastic demand conditions. The model minimizes the total cost and environmental impact, balancing strategic and tactical decisions in both online and traditional sales channels. The formulation tackles demand uncertainty through stochastic modeling, integrating inventory policy with location and allocation decisions in a complex supply chain.
+#### Optimizing a bi-objective Location-Allocation-Inventory Problem (LAIP) in a dual-channel supply chain network with stochastic demands
+This project involves a bi-objective LAIP model for a dual-channel, multi-level supply chain network under stochastic demand conditions. The model minimizes the total cost and environmental impact, balancing strategic and tactical decisions in both online and traditional sales channels. The formulation tackles demand uncertainty through stochastic modeling, integrating inventory policy with location and allocation decisions in a complex supply chain.
 
 ### Installation Instructions
 Ensure that GAMS software is installed on your system to run the model:
