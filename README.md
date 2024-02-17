@@ -22,7 +22,7 @@ The provided GAMS code implements the optimization model described in the paper.
 Contributions to enhance the model, extend its applicability, or improve its efficiency are welcome. Please ensure that any contributions are consistent with the methodologies outlined in the paper.
 
 ### Acknowledgments
-This project is based on research published in RAIRO Operations Research. For detailed methodology and theoretical background, refer to the original paper available [here]([file:///C:/Users/Shahe002/Downloads/Optimizing_a_bi-objective_location-allocation-inve.pdf](here)).
+This project is based on research published in RAIRO Operations Research. For detailed methodology and theoretical background, refer to the original paper available here.
 
 ### Contact Information
 For any queries or collaboration opportunities related to this project, please contact t.shahedi@uu.nl.
